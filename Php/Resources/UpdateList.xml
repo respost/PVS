@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+  <description>Application autoUpdate</description>
+  <Updater>
+    <Url>http://down.zy13.net/php/</Url>
+	<LastUpdateTime>2020-05-20</LastUpdateTime>
+  </Updater>
+  <Application>
+     <EntryPoint>PHP漏洞扫描.exe</EntryPoint>
+	 <Location>.</Location>
+     <Version>1.0.0</Version>
+  </Application>
+  <Files>
+	   <File Ver="1.0.0" Name="PHP漏洞扫描.exe" />
+  </Files>
+</AutoUpdater>

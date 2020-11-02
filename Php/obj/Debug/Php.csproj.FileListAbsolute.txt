@@ -1,0 +1,9 @@
+F:\php\Php\Php\bin\Debug\Php.exe
+F:\php\Php\Php\bin\Debug\Php.pdb
+F:\php\Php\Php\obj\Debug\ResolveAssemblyReference.cache
+F:\php\Php\Php\obj\Debug\Php.Form1.resources
+F:\php\Php\Php\obj\Debug\Php.Properties.Resources.resources
+F:\php\Php\Php\obj\Debug\Php.csproj.GenerateResource.Cache
+F:\php\Php\Php\obj\Debug\Php.exe
+F:\php\Php\Php\obj\Debug\Php.pdb
+F:\php\Php\Php\bin\Debug\Php.exe.config
